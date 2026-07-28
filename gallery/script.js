@@ -1,4 +1,4 @@
-const USER="skatevibe";
+const USER="minot-rp";
 const REPO="rpg-assets-template";
 const ROOT="assets";
  
