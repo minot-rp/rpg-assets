@@ -27,7 +27,7 @@ function showFolders(folders){
         const card=document.createElement("div");
         card.className="folder";
         card.innerHTML=`
-		<img class="folder-icon" src="./png/folder.png" alt="folder">
+		<img class="folder-icon" src="./pngs/folder.png" alt="folder">
 		<div class="name">${folder.name}</div>
 	`;
 
